@@ -6,7 +6,4 @@ class First{
 		pw.write(100);
 		pw.print("hellow");
 		pw.flush();
-	}
-	
-	
-}
+	}}
